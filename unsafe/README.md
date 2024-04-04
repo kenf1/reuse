@@ -1,0 +1,3 @@
+## unsafe
+
+Deliberately crash program
