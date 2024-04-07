@@ -34,3 +34,6 @@
 #Misc
 test-cpp
 .DS_Store
+unsafe/*
+!unsafe/*.c
+!unsafe/*.cpp
